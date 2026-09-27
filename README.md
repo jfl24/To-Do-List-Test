@@ -7,4 +7,8 @@
 
 ## 🚀 Lancement local
 #### Exécutez les commandes suivantes sur un terminal Bash :
-- git clone 
+- git clone https://github.com/jfl24/To-Do-List-Test.git
+- cd To-Do-List-Test
+- npm install
+- npx prisma generate
+- npm run dev
