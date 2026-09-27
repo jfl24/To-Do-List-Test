@@ -2,7 +2,14 @@
 
 ### Petit projet de gestion de tâches pour m'entraîner à Next.js, le déploiement sur Vercel et la gestion de Blob sur Vercel.
 
-## 🛠️ Technologies
+## 🛠️ Technologies utilisées
+- Next.js
+- React
+- TypeScript
+- Node.js
+- Prisma
+- PostgreSQL
+- Vercel Blob
 
 
 ## 🚀 Lancement local
